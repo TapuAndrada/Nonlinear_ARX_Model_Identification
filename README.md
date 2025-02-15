@@ -16,6 +16,6 @@ Free-run simulation: Uses only predicted values, mimicking a real-world scenario
 iddata-18.mat – Dataset file containing identification and validation data.  
 Nonlinear_ARX_Identification.m – The primary script implementing the nonlinear ARX model.
 ## Results
-Error Analysis: MSE is computed for different model orders (na, nb) to determine the optimal complexity.
-Model Selection: The best polynomial degree and order are chosen based on validation performance, balancing underfitting and overfitting.
-Visualization: Graphs illustrate prediction errors and simulation accuracy for different configurations.
+Error Analysis: MSE is computed for different model orders (na, nb) to determine the optimal complexity.  
+Model Selection: The best polynomial degree and order are chosen based on validation performance, balancing underfitting and overfitting.  
+Visualization: Graphs illustrate prediction errors and simulation accuracy for different configurations.  
